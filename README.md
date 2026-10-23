@@ -30,7 +30,7 @@ standard run, at scale 25. The loops before, during and after the VF onset can t
 
 | record | sex, age | rhythm | duration | VF onset | loops |
 |---|---|---|---|---|---|
-| 52 | F, 82 | sinus | 07:31:05 | 02:32:40 (loop 019) | 60 |
+| 52 | F, 82 | sinus | 07:31:05 | 02:32:40; the ventricular run lasts to 02:38 (loop 020) | 60 |
 
 ## Folders
 
