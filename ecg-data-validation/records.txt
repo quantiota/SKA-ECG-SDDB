@@ -1,0 +1,26 @@
+# PhysioNet Sudden Cardiac Death Holter Database (sddb 1.0.0), 250 Hz, 2 ECG leads (the first is used).
+# Sex, age, underlying rhythm and VF onset (time from the start of the recording) from the PhysioNet page.
+# name  record_id  sex  age  rhythm                       vf_onset
+30  30  M  43  sinus                        07:54:33
+31  31  F  72  sinus                        13:42:24
+32  32  ?  62  sinus+intermittent_pacing    16:45:18
+33  33  F  30  sinus                        04:46:19
+34  34  M  34  sinus                        06:35:44
+35  35  F  72  atrial_fibrillation          24:34:56
+36  36  M  75  atrial_fibrillation          18:59:01
+37  37  F  89  atrial_fibrillation          01:31:13
+38  38  ?  ?   sinus                        08:01:54
+39  39  M  66  sinus                        04:37:51
+40  40  M  79  paced                        none
+41  41  M  ?   sinus                        02:59:24
+42  42  M  17  sinus                        none
+43  43  M  35  intermittent_pacing          15:37:11
+44  44  M  ?   sinus                        19:38:45
+45  45  M  68  sinus                        18:09:17
+46  46  F  ?   sinus                        03:41:47
+47  47  M  34  sinus                        06:13:01
+48  48  M  80  sinus                        02:29:40
+49  49  M  73  sinus+intermittent_pacing    none
+50  50  F  68  atrial_fibrillation          11:45:43
+51  51  F  67  sinus+intermittent_pacing    22:58:23
+52  52  F  82  sinus                        02:32:40
