@@ -18,11 +18,14 @@ The ECG is streamed into QuestDB (`ecg_sddb_steps`) and the learner's output is 
 | `vr/<id>/` | three cubes per loop (P, missing waves tagged, Δt) |
 | `build_ecg_vr.py`, `ska_ecg_vr_template*.html` | the cube builder and its templates |
 | `plot_record.py`, `loop_outputs.py`, `tau_h.py` | the figures, the cubes of every loop, τ_H / N_H, from the run CSVs |
+| `make_timing.py`, `add_replay.py` | the real-time replay of a cube (play / pause / speed / position) |
 
 τ_H = time for the learner to reach 90 % of its saturation on its slowest transition;
 N_H = τ_H / T_c, in cardiac cycles; T_c = mean cycle time of the loop.
 
 ## Record 52 (F, 82, sinus rhythm, VF onset 02:32:40)
+
+Replay of loop 020, the first loop after the onset: [cube](vr/52/ska_ecg_52_L020_scale25_vr_replay.html).
 
 | loop | time in the recording | VF onset | T_c (ms) | τ_H (min) | N_H (cycles) | figures | cube |
 |---|---|---|---|---|---|---|---|

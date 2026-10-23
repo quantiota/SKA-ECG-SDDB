@@ -11,6 +11,8 @@ Three cubes per loop, at scale 25: the cube (P), the same with the steps into or
 
 ### Record 52 (F, 82, sinus rhythm, VF onset 02:32:40)
 
+Replay of loop 020, the first loop after the VF onset (▶ plays the recording at the heart's own pace): [open](https://quantiota.github.io/SKA-ECG-SDDB/vr-library/52/ska_ecg_52_L020_scale25_vr_replay.html)
+
 | loop | time in the recording | VF onset | T_c (ms) | τ_H (min) | N_H (cycles) | cube | missing waves tagged (×) | Δt |
 |---|---|---|---|---|---|---|---|---|
 | L000 | 00:00:00–00:07:34 | later | 648 | 7.3 | 673 | [open](https://quantiota.github.io/SKA-ECG-SDDB/vr-library/52/ska_ecg_52_L000_scale25_vr.html) | [open](https://quantiota.github.io/SKA-ECG-SDDB/vr-library/52/ska_ecg_52_L000_scale25_tagged_vr.html) | [open](https://quantiota.github.io/SKA-ECG-SDDB/vr-library/52/ska_ecg_52_L000_scale25_dt_vr.html) |
