@@ -25,8 +25,6 @@ N_H = τ_H / T_c, in cardiac cycles; T_c = mean cycle time of the loop.
 
 ## Record 52 (F, 82, sinus rhythm, VF onset 02:32:40)
 
-Replay of loop 020, the first loop after the onset: [cube](vr/52/ska_ecg_52_L020_scale25_vr_replay.html).
-
 | loop | time in the recording | VF onset | T_c (ms) | τ_H (min) | N_H (cycles) | figures | cube |
 |---|---|---|---|---|---|---|---|
 | L000 | 00:00:00–00:07:34 | later | 648 | 7.3 | 673 | [H, P](results/52/52_L000/figures/ska_52_L000_cdot_cos_scale25.png) · [3D](results/52/52_L000/figures/bands3d_52_L000_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L000_scale25_vr.html) |
@@ -49,7 +47,7 @@ Replay of loop 020, the first loop after the onset: [cube](vr/52/ska_ecg_52_L020
 | L017 | 02:10:14–02:17:58 | later | 663 | 6.2 | 561 | [H, P](results/52/52_L017/figures/ska_52_L017_cdot_cos_scale25.png) · [3D](results/52/52_L017/figures/bands3d_52_L017_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L017_scale25_vr.html) |
 | L018 | 02:17:59–02:25:22 | later | 632 | 6.6 | 624 | [H, P](results/52/52_L018/figures/ska_52_L018_cdot_cos_scale25.png) · [3D](results/52/52_L018/figures/bands3d_52_L018_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L018_scale25_vr.html) |
 | L019 | 02:25:22–02:32:56 | **inside** | 648 | 4.5 | 416 | [H, P](results/52/52_L019/figures/ska_52_L019_cdot_cos_scale25.png) · [3D](results/52/52_L019/figures/bands3d_52_L019_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L019_scale25_vr.html) |
-| L020 | 02:32:56–02:39:47 | earlier | 587 | 4.1 | 420 | [H, P](results/52/52_L020/figures/ska_52_L020_cdot_cos_scale25.png) · [3D](results/52/52_L020/figures/bands3d_52_L020_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L020_scale25_vr.html) |
+| L020 | 02:32:56–02:39:47 | earlier | 587 | 4.1 | 420 | [H, P](results/52/52_L020/figures/ska_52_L020_cdot_cos_scale25.png) · [3D](results/52/52_L020/figures/bands3d_52_L020_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L020_scale25_vr.html) · [replay](vr/52/ska_ecg_52_L020_scale25_vr_replay.html) |
 | L021 | 02:39:47–02:46:01 | earlier | 532 | 4.6 | 513 | [H, P](results/52/52_L021/figures/ska_52_L021_cdot_cos_scale25.png) · [3D](results/52/52_L021/figures/bands3d_52_L021_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L021_scale25_vr.html) |
 | L022 | 02:46:01–02:52:20 | earlier | 544 | 4.5 | 499 | [H, P](results/52/52_L022/figures/ska_52_L022_cdot_cos_scale25.png) · [3D](results/52/52_L022/figures/bands3d_52_L022_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L022_scale25_vr.html) |
 | L023 | 02:52:21–02:59:14 | earlier | 594 | 3.9 | 396 | [H, P](results/52/52_L023/figures/ska_52_L023_cdot_cos_scale25.png) · [3D](results/52/52_L023/figures/bands3d_52_L023_cdot_cos_scale25.png) | [cube](vr/52/ska_ecg_52_L023_scale25_vr.html) |
